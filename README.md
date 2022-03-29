@@ -1,4 +1,3 @@
-![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/KadirSanel/go-microservice-example)
 # Express Restful Api Tutorial 
 
 Express user restapi with MongoDb and JWT
