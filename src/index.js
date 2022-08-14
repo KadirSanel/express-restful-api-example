@@ -22,6 +22,7 @@ mongoose
 app.use(express.json())
 app.use("/api/v1/auth", authRoute)
 app.use("/api/v1/users", userRoute)
+app.use("/api/v1/communities", communitiesRoute)
 
 // start service and listen
 app.listen(port, () => console.log(`Server listening on port ${port}!`))
